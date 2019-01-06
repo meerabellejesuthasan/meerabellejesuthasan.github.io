@@ -18,6 +18,21 @@
   <link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic|Open+Sans:400italic,600italic,400,600' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  {{ content }}
+  <header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
+    <div class="container">
+      <h1>{{ site.title }}</h1>
+      <ul class="meta">
+        <li>
+          <span>
+            {{ site.tagline }}
+          </span>
+        </li>
+    </div>
+  </header>
+  <article>
+    <div class="container">
+      {{ content }}
+    </div>
+  </article>
 </body>
 </html>

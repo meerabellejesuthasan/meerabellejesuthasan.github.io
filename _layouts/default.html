@@ -20,18 +20,21 @@
 <body>
   <header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }}); background-position: top;">
     <div class="container">
-      <h1>{{ site.title }}</h1>
+      <h1><center>{{ site.title }}</center></h1>
       <ul class="meta">
+        <center>
         <li>
           <span>
             {{ site.tagline }}
           </span>
         </li>
+        </center>
     </div>
   </header>
   <article>
     <div class="container">
       {{ content }}
+    </div>
     </div>
   </article>
 </body>

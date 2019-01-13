@@ -126,10 +126,11 @@ article {
   height: 100%;
   overflow: scroll;
   white-space: normal;
+  scroll-behavior: smooth;
 }
 
 .container {
-  padding: 100px 50px;
+  padding: 50px 25px;
   width: 95%;
 }
 
@@ -351,7 +352,7 @@ article {
 
 
 article .container {
-  padding-top: 80px;
+  padding-top: 35px;
   width: 85%;
 }
 

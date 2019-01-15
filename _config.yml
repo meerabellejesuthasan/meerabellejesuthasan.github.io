@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: [Meerabelle Jesuthasan]
-description: [human person]
+# Site settings
+title: 'Meerabelle Jesuthasan' # Your Title
+tagline: 'Writing. Researching. Dramatizing.' # A brief tagline for your site
+sidebar_image: /images/cover2-01.png
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: # the subpath of your site, e.g. /blog/
+
+domain: meerabellejesuthasan.com

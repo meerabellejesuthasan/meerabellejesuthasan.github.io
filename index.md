@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-Hi, I'm Meerabelle Jesuthasan, an aspiring journalist who writes about culture, theatre, and higher education. In May 2019, I'm graduating from the University of Pennsylvania with a BA in History and minors in Creative Writing and Cognitive Science.
-
-I am a University Scholar for my research on anti-imperialism in Paris between the world wars. In Fall 2018 I was a recipient of the Friend Journalism grant through the Kelly Writers House. And if you must know, I won an award for English in 10th grade.
-
-Contact me at meerabellej at gmail dot com.
+I'm Meerabelle, a journalist who writes about culture, social justice, theatre, and higher education. I'm also a researcher with experience in trawling through archives both dusty and digital. In May 2019, I'll graduating from the University of Pennsylvania with a BA in History with minors in Creative Writing and Cognitive Science—and as the story goes, I am very much interested in securing employment thereafter. If you've got a bone, throw it me at **meerabellej at gmail dot com**.
 
 Here are some of the things I do:
 

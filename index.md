@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I'm Meerabelle, a journalist who writes about culture, social justice, theatre, and higher education. I'm also a researcher with experience in trawling through archives both dusty and digital. In May 2019, I'll graduating from the University of Pennsylvania with a BA in History with minors in Creative Writing and Cognitive Science—and as the story goes, I am very much interested in securing employment thereafter. If you've got a bone, throw it me at **meerabellej at gmail dot com**.
+I'm Meerabelle, a journalist who writes about culture, social justice, theatre, and higher education. I'm also a researcher with experience in trawling through archives both dusty and digital. In May 2019, I'll be graduating from the University of Pennsylvania with a BA in History with minors in Creative Writing and Cognitive Science—as the story goes, I am very much interested in securing employment thereafter. If you've got a bone, throw it me at **meerabellej at gmail dot com**.
 
 Here are some of the things I do:
 

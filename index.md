@@ -53,17 +53,15 @@ Here are some of the things I do:
   - Big Fat City by Mahesh Dattani, Oct. 2015
 
 <h1 id="faq"> FAQ </h1>
-##"You're an international student! Is it safe to hire you?" (American query)
+## "You're an international student! Is it safe to hire you?" (American query)
 If we're talking 2019–20, yes. By July 2019 I should obtain my Work Authorization pass, which legally allows me to work for any employer in the United States as long as the job has some connection to my degree (which includes my major as well as both my minors). My OPT will last for one year, during which an employer will have the choice to sponsor me for a H1-B visa. I am not necessarily looking for sponsorship, and am willing to work in any organization that provides me with experience, a salary, and ideally health insurance.
 
-I am eligible to work in any country in the EU.
-
-##"What did you actually study?"
+## "What did you actually study?"
 My BA is in History with a World History Concentration, meaning I mostly studied non-Western history with a focus on colonialism and decolonization. I am currently writing an Honors Thesis on the development of international anti-imperialism in Paris between the World Wars. In addition, I am getting a minor in Creative Writing and a minor in Cognitive Science with a concentration in Language and Mind.
 
-##"You speak French? How much French do you speak?"
+## "You speak French? How much French do you speak?"
 A lot. I am a French passport holder and a native speaker, able to converse and navigate the culture. I speak French at home and have a bilingual IB diploma from high school, meaning I took literature in both English and French.
 
 ***
 
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

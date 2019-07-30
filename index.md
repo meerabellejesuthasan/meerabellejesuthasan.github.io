@@ -58,12 +58,12 @@ I'm Meerabelle, a journalist based in the U.S.A. (currently DC). My interests in
 
 <h1 id="faq"> FAQ </h1>
 
-##"What did you actually study?"
+## "What did you actually study?"
 My BA is in History with a World History Concentration, meaning I mostly studied non-Western history with a focus on colonialism and decolonization. I wrote an award-winning Honors Thesis on the development of international anti-imperialism in Paris between the World Wars. In addition, I have a minor in Creative Writing and a minor in Cognitive Science with a concentration in Language and Mind.
 
-##"You speak French? How much French do you speak?"
+## "You speak French? How much French do you speak?"
 A lot. I am a French passport holder and a native speaker, able to converse and navigate the culture. I speak French at home and have a bilingual IB diploma from high school, meaning I took literature in both English and French.
 
 ***
 
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

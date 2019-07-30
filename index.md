@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
-I'm Meerabelle, a Philadelphia-based journalist who writes about history, social justice, theatre, and higher education. I'm also a researcher with experience in trawling through archives both dusty and digital. I grew up in Singapore to French and Malaysian parents, and speak fluent French and pretty good Spanish. In May 2019, I'll be graduating from the University of Pennsylvania with a BA in History with minors in Creative Writing and Cognitive Science—as the story goes, I am very much interested in securing employment thereafter. If you've got a bone, throw it my way at **meerabellej at gmail dot com**.
+I'm Meerabelle, a journalist based in the U.S.A. (currently DC). My interests include: decolonization, oral history, archives on- and offline, language and language access, climate justice, theatre, poetry, and the evolution of movements across 'the Left.'
 
-Here are some of the things I do:
+<h1> Current projects </h1>
+* Education Intern at the [Pulitzer Center on Crisis Reporting](https://pulitzercenter.org/)
+* An oral history of Philadelphia's lesbian scene in the 1970s and '80s, supported by the Cultural Preservation Grant from the [Kelly Writers House](http://writing.upenn.edu)
 
 <h1 id="writing"> Writing </h1>
+* [Review: InterAct Theatre Company presents 'The Great Leap'](https://www.broadstreetreview.com/theater/interact-theatre-company-presents-lauren-yees-the-great-leap) / 2019 / 'The Great Leap' by Lauren Yee, produced by InterAct Theatre Company, aims high, but the staging falls just a little short.
+* [Review: Inis Nua Theatre Company presents 'Untitled'](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled#) / 2019 / Inis Nua's production of Inua Ellams' 'Untitled' is full of grisly magic and mythology. Bolstered by imaginative design and direction, with a dynamic performance by Keith Illidge, the production crackles with the simple intensity of good storytelling, even as the play begins to falter in its second part.
 * [Profile: Peter Whinnery Is Packing Up Shop](http://thepenngazette.com/peter-whinnery-is-packing-up-shop/) / 2019 / Peter Whinnery, who ran the school's performing arts wood shop for 36 years and is behind hundreds of student productions, is retiring in May. For The Penn Gazette.
+* [Feature: Reconnecting with Roots in Penn's Less Commonly Taught Language Classes](https://www.34st.com/article/2019/05/penn-upenn-language-courses-academics-tamil-polish-quechua-linguistics) For students in languages from Quechua to Tamil, small language courses allow them to celebrate and explore their heritage.
 * [Feature: Archaeologist Joyce White and Operation Antiquity](https://www.34st.com/article/2019/02/joyce-white-ban-chiang-artifact-smuggling-penn-museum-thailand-fbi-investigation) / 2019 / Joyce White, leading expert on the Ban Chiang archaeological site in Thailand and Laos, became an expert witness in one of the most high-profile  cases of artifact smuggling in decades, known as "Operation Antiquity." For 34th Street Magazine.
 * [Feature: The Naming Process at Penn](https://www.34st.com/article/2018/12/upenn-naming-renaming-wynn-commons-bill-cosby) / 2018 / Months after Steve Wynn’s name was removed from campus, the conditions for granting naming rights—and revoking them—remain mysterious at Penn. I investigated the school's policy on keeping and dropping controversial campus namesakes for 34th Street Magazine.
 * [Short feature: What's in a Wiki Page?](https://thephiladelphiacitizen.org/whats-in-a-wiki-page/) / 2018 / At the Ian McHarg Center for Urbanism and Ecology's, researchers initiated a crowd-sourced plan to create Wikipedia pages for women in urban planning. For The Philadelphia Citizen.
@@ -21,7 +26,6 @@ Here are some of the things I do:
 * [Feature: How New Development Threatens West Philadelphia's Historic Buildings.](https://www.34st.com/article/2019/01/historic-preservation-west-philadelphia-spruce-hill-uch-campus-apartments-gentrification) / 2019 / By Colin Lodewick / Exploring the cost of new development in Spruce Hill, Philly’s first ‘streetcar suburb.’ Edited for 34th Street Magazine, as long-term features editor.
 * [Interview: A conversation with Andrew Levy and Norman Fischer](http://jacket2.org/interviews/condemnation-confrontation-remembrance) / 2019 / By Norman Fischer and Andrew Levy / Copy-edited for Jacket2, as editorial assistant.
 * [Review: Raquel Salas Rivera's 'lo terciario/the tertiary'](http://jacket2.org/reviews/products-labor) / 2018 / By Amy Paeth / Copy-edited for Jacket2, as editorial assistant.
-* Copy editor at DoubleSpeak Magazine (Chicago style), 2017–2019
 * Bibliographer at the [Institution of Southeast Asian Archaeology](https://iseaarchaeology.org/ban-chiang-project/) (American Antiquity style), 2015–2016
 
 <h1 id="researching"> Researching </h1>
@@ -53,13 +57,9 @@ Here are some of the things I do:
   - Big Fat City by Mahesh Dattani, Oct. 2015
 
 <h1 id="faq"> FAQ </h1>
-##"You're an international student! Is it safe to hire you?" (American query)
-If we're talking 2019–20, yes. By July 2019 I should obtain my Work Authorization pass, which legally allows me to work for any employer in the United States as long as the job has some connection to my degree (which includes my major as well as both my minors). My OPT will last for one year, during which an employer will have the choice to sponsor me for a H1-B visa. I am not necessarily looking for sponsorship, and am willing to work in any organization that provides me with experience, a salary, and ideally health insurance.
-
-I am eligible to work in any country in the EU.
 
 ##"What did you actually study?"
-My BA is in History with a World History Concentration, meaning I mostly studied non-Western history with a focus on colonialism and decolonization. I am currently writing an Honors Thesis on the development of international anti-imperialism in Paris between the World Wars. In addition, I am getting a minor in Creative Writing and a minor in Cognitive Science with a concentration in Language and Mind.
+My BA is in History with a World History Concentration, meaning I mostly studied non-Western history with a focus on colonialism and decolonization. I wrote an award-winning Honors Thesis on the development of international anti-imperialism in Paris between the World Wars. In addition, I have a minor in Creative Writing and a minor in Cognitive Science with a concentration in Language and Mind.
 
 ##"You speak French? How much French do you speak?"
 A lot. I am a French passport holder and a native speaker, able to converse and navigate the culture. I speak French at home and have a bilingual IB diploma from high school, meaning I took literature in both English and French.

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I'm Meerabelle, a journalist based in the U.S.A. (currently DC). My interests include: decolonization, oral history, archives on- and offline, language and language access, climate justice, theatre, poetry, and the evolution of movements across 'the Left.'
+I'm Meerabelle, a journalist based in the U.S.A. (currently DC). My interests include oral history, archives on- and offline, language and language access, climate justice, theatre, poetry, post-colonialism, the evolution of leftist movements around the world.
 
 <h1> Current projects </h1>
 * Education Intern at the [Pulitzer Center on Crisis Reporting](https://pulitzercenter.org/)

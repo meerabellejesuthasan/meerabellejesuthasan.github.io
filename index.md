@@ -66,7 +66,6 @@ My BA is in History with a World History Concentration, meaning I mostly studied
 
 ##"You speak French? How much French do you speak?"
 A lot. I am a French passport holder and a native speaker, able to converse and navigate the culture. I speak French at home and have a bilingual IB diploma from high school, meaning I took literature in both English and French. I also studied Spanish at an advanced level in college.
-
 ***
 
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

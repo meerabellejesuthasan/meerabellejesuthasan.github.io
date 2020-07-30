@@ -60,15 +60,13 @@ My work has appeared in The Nation, New Naratif, IJNet, and others. I write abou
 
 <h1 id="faq"> FAQ </h1>
 
-##"What did you actually study?"
-Among other things: resistance to French colonialism, linguistics, and creative writing.
+## "What did you actually study?"
+Resistance to French colonialism, linguistics, and creative writing.
 
-##"Do you speak French/how much French do you speak?"
+## "Do you speak French/How much French do you speak?"
 I am fluent.
 
-##"Where are you from/where can you work?"
+## "Where are you from/where can you work?"
 Don't worry about it.
 
-***
-
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

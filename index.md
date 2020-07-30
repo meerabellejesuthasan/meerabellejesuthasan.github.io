@@ -32,12 +32,10 @@ I am a journalist and fact-checker currently based in France. My work has appear
 
 <h1 id="faq"> FAQ </h1>
 
-##"What did you actually study?"
-Among other things: resistance to French colonialism, linguistics, and creative writing.
+## "What did you actually study?"
+Resistance to French colonialism, linguistics, and creative writing.
 
-##"Do you speak French/how much French do you speak?"
+## "Do you speak French/How much French do you speak?"
 I am fluent.
 
-***
-
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

@@ -68,7 +68,6 @@ Resistance to French colonialism, linguistics, and creative writing.
 
 ##"You speak French? How much French do you speak?"
 I am fluent.
-
 ***
 
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

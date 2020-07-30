@@ -5,7 +5,7 @@ layout: default
 
 <h1 id="checkpoint"> Social Media and Promotional Materials for Checkpoint Theatre</h1>
 
-<center> ![Instagram for Checkpoint Theatre](images/checkpointinst.png)
+![Instagram for Checkpoint Theatre](images/checkpointinst.png)
 
 ![Lucas Ho Poster](images/LucasHo.png)
 
@@ -17,4 +17,3 @@ I made graphics and captions for [Checkpoint Theatre's](instagram.com/checkpoint
 ![Instagram for The Philadelphia Citizen](images/citizeninst.png)
 
 I made graphics for [The Philadelphia Citizen](instagram.com/thephiladelphiacitizen) during my internship with them in fall 2018. I made graphics throughout the day during The Citizen's first Ideas We Should Steal Festival.
-</center>

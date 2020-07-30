@@ -3,6 +3,8 @@ layout: default
 ---
 I am a journalist and fact-checker currently based in France. My work has appeared in The Nation, New Naratif, IJNet, and others. I write about and research climate change, oral history, archives, language and language access, theatre, (post-)colonialism, and leftist organizing around the world.
 
+Je suis journaliste et fact-checker, je vis actuellement en France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du réchauffement climatique, l'histoire orale, les archives, les langueges et l'accès linguistique, le théâtre, le colonialisme, et les mouvement militants autour du monde.
+
 <h1> Current projects </h1>
 * Editorial Intern at the [The Nation](https://thenation.com), where I fact-check articles for print and web and help in web production of articles.
 * [When We Go Out](http://whenwegoout.substack.com/), an oral history of Philadelphia's lesbian scene in the 1970s and '80s, supported by the Cultural Preservation Grant from the [Kelly Writers House](http://writing.upenn.edu)
@@ -33,10 +35,16 @@ I am a journalist and fact-checker currently based in France. My work has appear
 <h1 id="faq"> FAQ </h1>
 
 ##"What did you actually study?"
-Among other things: resistance to French colonialism, linguistics, and creative writing.
+Among other things: resistances to French colonialism, linguistics, and creative writing.
 
 ##"Do you speak French/how much French do you speak?"
 I am fluent.
+
+##"Qu'est-ce-que vous avez étudié?"
+Entre autres: les résistances au colonialisme français, la linguistique, et l'écriture créative.
+
+##"Parlez-vous français?"
+Oui, couramment.
 
 ***
 

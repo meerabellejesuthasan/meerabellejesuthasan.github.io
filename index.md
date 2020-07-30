@@ -34,18 +34,18 @@ Je suis journaliste et fact-checker, je vis actuellement en France. Mes articles
 
 <h1 id="faq"> FAQ </h1>
 
-##"What did you actually study?"
+## "What did you actually study?"
 Among other things: resistances to French colonialism, linguistics, and creative writing.
 
-##"Do you speak French/how much French do you speak?"
+## "Do you speak French/How much French do you speak?"
 I am fluent.
 
-##"Qu'est-ce-que vous avez étudié?"
+## "Qu'est-ce-que vous avez étudié?"
 Entre autres: les résistances au colonialisme français, la linguistique, et l'écriture créative.
 
-##"Parlez-vous français?"
+## "Parlez-vous français?"
 Oui, couramment.
 
 ***
 
-###I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).
+### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-I'm Meerabelle, a journalist based in the U.S. (currently New York City). My interests include oral history, archives on- and offline, language and language access, climate justice, theatre, poetry, post-colonialism, and the evolution of leftist movements around the world.
+ Note: Meerabelle's preferred subjects to write about include oral history, archives, language and language access, climate justice, theatre, poetry, post-colonialism, and the evolution of leftist movements around the world. Her date of birth is unknown. Her country of birth is unknown. Her parentage is unknown. The colours of her eyes, hair, and teeth are unknown. Her current citizenship is unknown. Her education level is unknown. Her IG handle is unknown. Her current whereabouts are unknown. Her best-selling work is unknown. Her name is Meerabelle.
 
 <h1> Current projects </h1>
 * Editorial Intern at the [The Nation](https://thenation.com)
 * [When We Go Out](http://whenwegoout.substack.com/), an oral history of Philadelphia's lesbian scene in the 1970s and '80s, supported by the Cultural Preservation Grant from the [Kelly Writers House](http://writing.upenn.edu)
 
 <h1 id="writing"> Writing </h1>
-* [Explainer Comic: Red Hot Red Dot: The Climate Crisis and Singapore](https://newnaratif.com/comic/red-hot-red-dot-the-climate-crisis-and-singapore/) / 2020 / How will the climate crisis impact Singapore?
-* [Feature: When Student Newspapers Cover Race](https://www.patreon.com/posts/when-student-33420557) / 2020 / A look at how students at three universities are dealing with histories of mistrust between student newspapers and students of color, pushing campus media to better cover race and activism.
+* [Feature: Why the Left Is Winning Over Philly](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/) / 2020 / How a culture of care and mutual aid powered a wave of successful progressive primary bids.
+* [Personal Essay: The Internet Is Not Forever](https://www.atm-magazine.com/atm-magazine-issue-01-wicked/the-internet-is-not-forever-lacartoonerie) / 2020 / An ode to Adobe Flash Player.
+* Explainer: Red Hot Red Dot: The Climate Crisis and Singapore: [Comic](https://newnaratif.com/comic/red-hot-red-dot-the-climate-crisis-and-singapore/) with [Anngee Neo](https://www.anngee.sg/), [Full Text](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/) / 2020 / How will the climate crisis impact Singapore?
+* [Feature: When Student Newspapers Cover Race](https://studyhall.xyz/when-student-newspapers-cover-race/) / 2020 / A look at how students at three universities are dealing with histories of mistrust between student newspapers and students of color, pushing campus media to better cover race and activism.
 * [Feature: Where the Carbon Flows: Singapore’s Emissions in a Global Context](https://newnaratif.com/journalism/where-the-carbon-flows-singapores-emissions-in-a-global-context/share/zrrenoryyrw/22367e845ad71c7a278473e5a2995387/) / 2019 / As concerns over climate change grow in Singapore, many question what one island nation’s actions can possibly change. But as a trading port and financier, its carbon emissions spill far beyond its borders.
 * [Review: InterAct Theatre Company presents 'The Great Leap'](https://www.broadstreetreview.com/theater/interact-theatre-company-presents-lauren-yees-the-great-leap) / 2019 / 'The Great Leap' by Lauren Yee, produced by InterAct Theatre Company, aims high, but the staging falls just a little short.
 * [Review: Inis Nua Theatre Company presents 'Untitled'](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled#) / 2019 / Inis Nua's production of Inua Ellams' 'Untitled' is full of grisly magic and mythology. Bolstered by imaginative design and direction, with a dynamic performance by Keith Illidge, the production crackles with the simple intensity of good storytelling, even as the play begins to falter in its second part.
@@ -62,10 +64,10 @@ I'm Meerabelle, a journalist based in the U.S. (currently New York City). My int
 <h1 id="faq"> FAQ </h1>
 
 ##"What did you actually study?"
-My BA is in History with a World History Concentration, meaning I mostly studied non-Western history with a focus on colonialism and decolonization. I wrote an award-winning Honors thesis on the development of international anti-imperialism in Paris between the World Wars. In addition, I have a minor in Creative Writing and a minor in Cognitive Science with a concentration in Language and Mind.
+Resistance to French colonialism, linguistics, and creative writing.
 
 ##"You speak French? How much French do you speak?"
-A lot. I am a French passport holder and a native speaker, able to converse and navigate the culture. I speak French at home and have a bilingual IB diploma from high school, meaning I took literature in both English and French. I also studied Spanish at an advanced level in college.
+I am fluent.
 ***
 
 ### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

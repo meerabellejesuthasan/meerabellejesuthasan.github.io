@@ -5,7 +5,7 @@ I am a journalist and fact-checker currently based in France. My work has appear
 
 Je suis journaliste et fact-checker, je vis actuellement en France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du réchauffement climatique, la préservation culturelle, l'activisme, et le théâtre. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
 
-##Contact me: meerabellej(at)gmail(dot)com
+## Contact me: meerabellej(at)gmail(dot)com
 
 <h1> Current projects </h1>
 * Editorial Intern at the [The Nation](https://thenation.com), where I fact-check articles for print and web and help in web production of articles.

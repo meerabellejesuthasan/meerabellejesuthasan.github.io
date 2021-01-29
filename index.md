@@ -8,8 +8,8 @@ Je suis journaliste basée à Marseille, France. Mes articles (principalement en
 ## Contact me: meerabellej(at)gmail(dot)com
 
 <h1>At the moment</h1>
-* I'm writing lesson plans and developing long-term curricula for [New Naratif](https://newnaratif.com/)'s democracy classroom
-* I'm helping my sister develop recipes and illustrating food on [Patreon](https://www.patreon.com/cocobelle)
+* I'm writing lesson plans and developing syllabi for [New Naratif](https://newnaratif.com/)'s democracy classroom
+* I'm illustrating food while my sister develops baking recipes on [Patreon](https://www.patreon.com/cocobelle)
 * I'm a collective member at [ATM](https://www.atm-magazine.com/)
 
 <h1 id="writing">Selected Features and Reporting </h1>

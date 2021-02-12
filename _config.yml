@@ -1,7 +1,7 @@
 # Site settings
 title: 'Meerabelle Jesuthasan' # Your Title
 tagline: 'Writing. Researching. Dramatizing.' # A brief tagline for your site
-sidebar_image: /images/MeerabelleJ_headshot.jpg
+sidebar_image: /images/cover4.jpg
 
 # Build settings
 markdown: redcarpet

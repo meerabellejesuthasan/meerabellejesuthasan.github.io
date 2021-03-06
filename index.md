@@ -10,7 +10,7 @@ Je suis journaliste basée à Marseille, France. Mes articles (principalement en
 <h1>At the moment</h1>
 * I'm writing lesson plans and developing syllabi for [New Naratif](https://newnaratif.com/)'s democracy classroom
 * I'm illustrating food while my sister develops baking recipes on [Patreon](https://www.patreon.com/cocobelle)
-* I'm a collective member at [ATM](https://www.atm-magazine.com/)
+* I'm a collective member at [ATM](https://www.atm-magazine.com/) where I write a bi-monthly Q&A on [care](https://www.atm-magazine.com/online/who-cares-3)
 
 <h1 id="writing">Selected Features and Reporting </h1>
 * [The Limits of Solidarity in France’s Security Law Protests](https://studyhall.xyz/the-limits-of-solidarity-in-frances-global-security-law-protests/) / Study Hall / 2021 / The coalition protesting a proposed French security law is broad, but some worry that the movement emphasizes press freedom over rising Islamophobia and police brutality.

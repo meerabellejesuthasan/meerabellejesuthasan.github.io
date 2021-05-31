@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-I am a journalist and fact-checker currently based in Marseille, France. Most recently, I completed a year-long internship at [The Nation](https://thenation.com), where I fact-checked articles for print and web in every section of the magazine. My work has appeared in The Nation, New Naratif, Study Hall, and others. I am drawn to stories about climate change, history, activism, and theatre. My writing includes [features](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/), [explainers](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/), [reviews](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled), [lesson plans](https://pulitzercenter.org/builder/lesson/using-oral-history-reporting-26959), and [blog posts](https://pulitzercenter.org/blog/pulitzer-center-brings-circus-without-borders-filmmakers-and-acrobats-dc-schools). I've also done [research]({{site.baseurl}}/#researching), translation, and [social media]({{site.baseurl}}/#social-media) work, as well as [fact-checking]({{site.baseurl}}/#fact-checking) and copy editing. I'm a native French speaker and capable in Spanish.
+I am a journalist and fact-checker currently based in Marseille, France. Currently, I am the fact-check coordinator over at [The Intercept](http://theintercept.com/).
+
+Most recently, I completed a year-long internship at [The Nation](https://thenation.com), where I fact-checked articles for print and web in every section of the magazine. My work has appeared in The Nation, New Naratif, Study Hall, and others. I am drawn to stories about climate change, history, activism, and theatre. My writing includes [features](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/), [explainers](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/), [reviews](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled), [lesson plans](https://pulitzercenter.org/builder/lesson/using-oral-history-reporting-26959), and [blog posts](https://pulitzercenter.org/blog/pulitzer-center-brings-circus-without-borders-filmmakers-and-acrobats-dc-schools). I've also done [research]({{site.baseurl}}/#researching), translation, and [social media]({{site.baseurl}}/#social-media) work, as well as [fact-checking]({{site.baseurl}}/#fact-checking) and copy editing. I'm a native French speaker and capable in Spanish.
 
 Je suis journaliste basée à Marseille, France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du changement climatique, l'histoire, l'activisme, et le théâtre. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
 
 ## Contact me: meerabellej(at)gmail(dot)com
 
 <h1>At the moment</h1>
+* I'm the fact-check coordinator at [The Intercept](http://theintercept.com/)
 * I'm writing lesson plans and developing syllabi for [New Naratif](https://newnaratif.com/)'s democracy classroom
 * I'm illustrating food while my sister develops baking recipes on [Patreon](https://www.patreon.com/cocobelle)
 * I'm a collective member at [ATM](https://www.atm-magazine.com/) where I write a bi-monthly Q&A on [care](https://www.atm-magazine.com/online/who-cares-3)

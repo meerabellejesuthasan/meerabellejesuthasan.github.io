@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-I am a journalist and fact-checker currently based in Marseille, France. Currently, I am the fact-check coordinator over at [The Intercept](http://theintercept.com/).
+I am a journalist and fact-checker currently based in Marseille, France. Most recently, I was the fact-check coordinator over at [The Intercept](http://theintercept.com/).
 
-Most recently, I completed a year-long internship at [The Nation](https://thenation.com), where I fact-checked articles for print and web in every section of the magazine. My work has appeared in The Nation, New Naratif, Study Hall, and others. I am drawn to stories about climate change, history, activism, and theatre. My writing includes [features](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/), [explainers](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/), [reviews](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled), [lesson plans](https://pulitzercenter.org/builder/lesson/using-oral-history-reporting-26959), and [blog posts](https://pulitzercenter.org/blog/pulitzer-center-brings-circus-without-borders-filmmakers-and-acrobats-dc-schools). I've also done [research]({{site.baseurl}}/#researching), translation, and [social media]({{site.baseurl}}/#social-media) work, as well as [fact-checking]({{site.baseurl}}/#fact-checking) and copy editing. I'm a native French speaker and capable in Spanish.
+Before that, I completed a year-long internship at [The Nation](https://thenation.com), where I fact-checked articles for print and web in every section of the magazine. My work has appeared in The Nation, New Naratif, Study Hall, and others. I am drawn to stories about climate change, history, activism, and theatre. My writing includes [features](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/), [explainers](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/), [reviews](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled), [lesson plans](https://pulitzercenter.org/builder/lesson/using-oral-history-reporting-26959), and [blog posts](https://pulitzercenter.org/blog/pulitzer-center-brings-circus-without-borders-filmmakers-and-acrobats-dc-schools). I've also done [research]({{site.baseurl}}/#researching), translation, and [social media]({{site.baseurl}}/#social-media) work, as well as [fact-checking]({{site.baseurl}}/#fact-checking) and copy editing. I'm a native French speaker and capable in Spanish.
 
-Je suis journaliste basée à Marseille, France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du changement climatique, l'histoire, l'activisme, et le théâtre. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
+Je suis journaliste et fact-checker basée à Marseille, France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du changement climatique, l'histoire, l'activisme, et le théâtre. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
 
 ## Contact me: meerabellej(at)gmail(dot)com
 
@@ -32,6 +32,8 @@ Je suis journaliste basée à Marseille, France. Mes articles (principalement en
 * [Peter Whinnery Is Packing Up Shop](http://thepenngazette.com/peter-whinnery-is-packing-up-shop/) / The Penn Gazette / A profile of Peter Whinnery, who ran the UPenn's performing arts wood shop for 36 years and is behind hundreds of student productions, before his retirement in May 2019
 
 <h1 id="fact-checking"> Selected Fact-checking </h1>
+* [Joe Manchin's Dirty Empire](https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/) / The Intercept / 2021 / By Daniel Boguslaw
+* [How Michael Flynn Profited From the QAnon Conspiracy Theory](https://theintercept.com/2021/06/27/qanon-michael-flynn-digital-soldiers/) / The Intercept / 2021 / By Candace Rondeaux
 * [Evicting Lote Ocho: How a Canadian Mining Company Infiltrated the Guatemalan State](https://theintercept.com/2020/09/26/hudbay-skye-canada-mining-guatemala/) / The Intercept / 2020 / By Max Binks-Collier / This fact-check involved reading and speaking Spanish.
 * [The Death of Working Class Paris](https://www.thenation.com/article/world/paris-gentrification/) / The Nation / 2020 / By Cole Stangler / This fact-check involved reading and speaking French.
 * [GIJN's Health and Medicine Guide](https://gijn.org/health-and-medicine-guide-table-of-contents/) / GIJN / 2020 / By Catherine Riva and Serena Tinari

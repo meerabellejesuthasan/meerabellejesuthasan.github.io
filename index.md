@@ -9,12 +9,6 @@ Je suis journaliste et fact-checker basée à Marseille, France. Mes articles (p
 
 ## Contact me: meerabellej(at)gmail(dot)com
 
-<h1>At the moment</h1>
-* I'm the fact-check coordinator at [The Intercept](http://theintercept.com/)
-* I'm writing lesson plans and developing syllabi for [New Naratif](https://newnaratif.com/)'s democracy classroom
-* I'm illustrating food while my sister develops baking recipes on [Patreon](https://www.patreon.com/cocobelle)
-* I'm a collective member at [ATM](https://www.atm-magazine.com/) where I write a bi-monthly Q&A on [care](https://www.atm-magazine.com/online/who-cares-3)
-
 <h1 id="writing">Selected Features and Reporting </h1>
 * [Security for Whom?](https://www.theballot.world/articles/security-for-who) / The Ballot / 2021 / In 2018, police officers in Marseille injured Zineb Redouane by shooting tear gas into her appartment. She died the next day, and the investigation continues today. In 2021, as France debates a global security law that would enhance police power from local to national levels, her fate has come to symbolize the problem of police impunity in an increasingly militarized country. 
 * [The Limits of Solidarity in France’s Security Law Protests](https://studyhall.xyz/the-limits-of-solidarity-in-frances-global-security-law-protests/) / Study Hall / 2021 / The coalition protesting a proposed French security law is broad, but some worry that the movement emphasizes press freedom over rising Islamophobia and police brutality.

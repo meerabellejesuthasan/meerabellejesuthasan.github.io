@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-I am a journalist and fact-checker currently based in Marseille, France. Most recently, I was the fact-check coordinator over at [The Intercept](http://theintercept.com/).
+I am a journalist and fact-checker currently based in France. Currently, I'm a fact-checker at [Rest of World](https://restofworld.org/). Before that, I fact-checked for [The Intercept](http://theintercept.com/) and [The Nation](https://thenation.com). I've also checked articles and podcasts for [Mother Jones](https://www.motherjones.com/), [Coda Story](https://www.codastory.com/) and the [Global Investigative Journalism Network](https://gijn.org/), among others.
 
-Before that, I completed a year-long internship at [The Nation](https://thenation.com), where I fact-checked articles for print and web in every section of the magazine. My reporting has appeared in The Nation, New Naratif, Study Hall, and others. I am drawn to stories about climate change, history, activism, and theatre. My writing includes [features](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/), [explainers](https://newnaratif.com/research/explainer-the-climate-crisis-and-singapore/), [reviews](https://www.broadstreetreview.com/theater/inis-nua-theatre-company-presents-inua-ellamss-untitled), [lesson plans](https://pulitzercenter.org/builder/lesson/using-oral-history-reporting-26959), and [blog posts](https://pulitzercenter.org/blog/pulitzer-center-brings-circus-without-borders-filmmakers-and-acrobats-dc-schools). I've also done [research]({{site.baseurl}}/#researching), translation, and [social media]({{site.baseurl}}/#social-media) work, as well as [fact-checking]({{site.baseurl}}/#fact-checking) and copy editing. I'm a native French speaker and capable in Spanish.
+My reporting has appeared in The Nation, New Naratif, Study Hall, and others. I've covered [politics](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/) and social movements, [climate change](https://newnaratif.com/singapores-migrant-labour-climate-crisis-conundrum/), and [history](https://www.thenation.com/article/culture/information-activism-review/) in the US, France, and Singapore. I'm also a native French speaker and capable in Spanish—my previous work includes translation and copy-editing.
 
-Je suis journaliste et fact-checker basée à Marseille, France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, IJNet, et d'autres encore. J'écris sur les thèmes du changement climatique, l'histoire, l'activisme, et le théâtre. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
+Je suis journaliste et fact-checker basé en France. Mes articles (principalement en anglais) ont paru dans The Nation, New Naratif, et Study Hall, entre autres. J'écris sur les thèmes du changement climatique, l'histoire, et les mouvements sociaux. Je parle couramment le français, et j'ai un niveau avancé d'espagnol.
 
 ## Contact me: meerabellej(at)gmail(dot)com
 
@@ -31,30 +31,5 @@ Je suis journaliste et fact-checker basée à Marseille, France. Mes articles (p
 * [Evicting Lote Ocho: How a Canadian Mining Company Infiltrated the Guatemalan State](https://theintercept.com/2020/09/26/hudbay-skye-canada-mining-guatemala/) / The Intercept / 2020 / By Max Binks-Collier / This fact-check involved reading and speaking Spanish.
 * [The Death of Working Class Paris](https://www.thenation.com/article/world/paris-gentrification/) / The Nation / 2020 / By Cole Stangler / This fact-check involved reading and speaking French.
 
-<h1 id="researching"> Researching </h1>
-* [University Scholar](https://www.curf.upenn.edu/profile/jesuthasan-meerabelle) and History Honors candidate, 2017–2019
-* Research assistant to Dr. Karen Detlefsen in the UPenn Philosophy department, working on the [New Narratives](http://www.newnarrativesinphilosophy.net/) project, 2016–2019
-
-<h1 id="social-media"> Social Media </h1>
-* Pulitzer Center on Crisis Reporting: For the education team, I conducted research on Facebook group engagement and planned a reusable social media schedule to engage and connect teachers in a closed group
-* [Checkpoint Theatre]({{site.baseurl}}/social-media#checkpoint): I created and wrote captions for Instagram and promotional materials
-* [The Philadelphia Citizen]({{site.baseurl}}/social-media#citizen): I made Instagram graphics and captions, created and uploaded during the 2018 Ideas We Should Steal Festival
-* [iNtuitons Experimental Theatre](https://www.facebook.com/iNtuitons/): I served as Publicity Manager for a year, creating programs and managing our Facebook presence
-
-<h1 id="faq"> FAQ </h1>
-
-## "What did you actually study?"
-Among other things: resistances to French colonialism, linguistics, and creative writing.
-
-## "Do you speak French/How much French do you speak?"
-I am fluent.
-
-## "Qu'est-ce-que vous avez étudié?"
-Entre autres: les résistances au colonialisme français, la linguistique, et l'écriture créative.
-
-## "Parlez-vous français?"
-Oui, couramment.
-
-***
 
 ### I created this website, which is powered by [Jekyll](https://jekyllrb.com/) and  [Github Pages](https://pages.github.com/), using the theme [Strange Case](http://themes.jekyllrc.org/strangecase/) by Phuse. The typewriter effect is by [Geoff Graham](https://css-tricks.com/author/geoffgraham/).

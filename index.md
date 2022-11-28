@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a journalist and fact-checker currently based in France. Currently, I'm a fact-checker at [Rest of World](https://restofworld.org/). Before that, I fact-checked for [The Intercept](http://theintercept.com/) and [The Nation](https://thenation.com). I've also checked articles and podcasts for [Mother Jones](https://www.motherjones.com/), [Coda Story](https://www.codastory.com/) and the [Global Investigative Journalism Network](https://gijn.org/), among others.
+I am a journalist and fact-checker based in France. Currently, I'm a fact-checker at [Rest of World](https://restofworld.org/). Before that, I fact-checked for [The Intercept](http://theintercept.com/) and [The Nation](https://thenation.com). I've also checked articles and podcasts for [Mother Jones](https://www.motherjones.com/), [Coda Story](https://www.codastory.com/) and the [Global Investigative Journalism Network](https://gijn.org/), among others.
 
 My reporting has appeared in The Nation, New Naratif, Study Hall, and others. I've covered [politics](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/) and social movements, [climate change](https://newnaratif.com/singapores-migrant-labour-climate-crisis-conundrum/), and [history](https://www.thenation.com/article/culture/information-activism-review/) in the US, France, and Singapore. I'm also a native French speaker and capable in Spanish—my previous work includes translation and copy-editing.
 

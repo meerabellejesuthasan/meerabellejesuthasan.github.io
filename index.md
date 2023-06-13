@@ -11,16 +11,14 @@ A noter : Je suis bilingue en français, et j'ai un niveau avancé d'espagnol.
 
 <h1 id="writing">Selected Features and Reporting </h1>
 <h2>France</h2>
-My reporting on policing, immigration, and social movements in France.
 
 * [‘Insulted, humiliated, hunted’: plight of migrants as slums razed in French territory of Mayotte](https://www.theguardian.com/global-development/2023/may/31/insulted-humiliated-hunted-plight-of-migrants-as-slums-razed-in-french-territory-of-mayotte) - The Guardian / May 2023 / As the first shantytown falls to the bulldozer under France’s operation Wuambushu, people on the Indian Ocean island tell of living in constant fear.
 * [Security for Whom?](https://www.theballot.world/articles/security-for-who) - The Ballot / March 2021 / In 2018, at the height of the yellow vest movement,  a police officer shot a tear gas grenade into Zineb Redouane's appartment. She died from her injuries soon after. Two years later, as France’s police apparatus intensifies its strength and reach, Zineb's case continues to mark the city of Marseille.
-* [The Limits of Solidarity in France’s Security Law Protests](https://studyhall.xyz/the-limits-of-solidarity-in-frances-global-security-law-protests/) - Study Hall / Marcy 2021 / The coalition protesting a proposed French security law is broad, but some worry that the movement emphasizes press freedom over rising Islamophobia and police brutality.
+* [The Limits of Solidarity in France’s Security Law Protests](https://studyhall.xyz/the-limits-of-solidarity-in-frances-global-security-law-protests/) - Study Hall / March 2021 / The coalition protesting a proposed French security law is broad, but some worry that the movement emphasizes press freedom over rising Islamophobia and police brutality.
 * [The Fight Against France’s Global Security Law Is Far From Over](https://www.thenation.com/article/world/france-global-security-law/) -  The Guardian / February 2021 / In France, protests against a proposed security law have continued despite politicians' promise to rewrite a controversial section.
 * [Gritty in Paris](https://studyhall.xyz/gritty-in-paris/) -  Study Hall / As French media turned to the end of the 2020 US election results cycle, I wrote about how Philadelphia’s own “fuzzy eldritch horror” has surprising relevance to the French media landscape.
 
 <h2>Singapore</h2>
-My reporting on death row, working conditions, immigration, and climate change in Singapore.
 
 * [The Movement to Close Singapore’s Death Row](https://www.thenation.com/article/world/singapore-death-penalty/) - The Nation / February 2023 / Singapore tries to keep foreigners out of its politics but not out of the noose.
 * [Singapore’s free AI therapy-bot is as problematic as you’d think](https://restofworld.org/2022/free-therapy-chatbots-singapore/) - Singapore / Rest of World / November 2022 / The app tried to relieve pandemic stress for teachers — but instead, triggered cries of “gaslighting” and frustration.

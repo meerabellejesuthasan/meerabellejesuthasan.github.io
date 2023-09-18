@@ -1,7 +1,7 @@
 # Site settings
 title: 'Kadal Jesuthasan' # Your Title
 tagline: 'journalist and fact-checker' # A brief tagline for your site
-sidebar_image: /images/kadal jesuthasan.png
+sidebar_image: /images/header-kadal.jpg
 
 # Build settings
 markdown: redcarpet

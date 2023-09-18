@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-I am a freelance journalist and fact-checker based in Marseille, France. Currently, I'm a fact-checker at [Rest of World](https://restofworld.org/). I also report on France and Singapore on issues adjacent to policing, immigration, and social movements. Most recently this has included reporting on [France's mass deportation operation in overseas Mayotte](https://www.theguardian.com/global-development/2023/may/31/insulted-humiliated-hunted-plight-of-migrants-as-slums-razed-in-french-territory-of-mayotte) and the [international dimensions of Singapore's anti-death penalty movement](https://www.thenation.com/article/world/singapore-death-penalty/).
+I am a freelance journalist and fact-checker based in Marseille, France. I report on France and Singapore on issues adjacent to policing, immigration, and social movements. Most recently this has included reporting on the [riots in France after the police killing of Nahel Merzouk](https://www.opendemocracy.net/en/5050/france-riots-nahel-marseille-arab-black-race-police-violence-trial/), [France's mass deportation operation in overseas Mayotte](https://www.theguardian.com/global-development/2023/may/31/insulted-humiliated-hunted-plight-of-migrants-as-slums-razed-in-french-territory-of-mayotte) and the [international dimensions of Singapore's anti-death penalty movement](https://www.thenation.com/article/world/singapore-death-penalty/).
 
 I've also written about [tech](https://restofworld.org/2022/free-therapy-chatbots-singapore/), [climate change](https://newnaratif.com/singapores-migrant-labour-climate-crisis-conundrum/), and [queer history](https://www.thenation.com/article/culture/information-activism-review/).
 
-I was trained as a fact-checker in 2020 at The Nation, and then went on to oversee fact-checking as coordinator at The Intercept. Today I'm mostly working at Rest of World, and have also checked articles and podcasts for [Mother Jones](https://www.motherjones.com/), [Coda Story](https://www.codastory.com/), the [Global Investigative Journalism Network](https://gijn.org/), and [TED](https://www.ted.com/). I've also fact-checked books: Jay Caspian Kang's [The Loneliest Americans](https://www.newyorker.com/books/under-review/searching-for-coherence-in-asian-america) and Cole Stangler's upcoming [Paris Is Not Dead](https://thenewpress.com/books/paris-not-dead).
+I was trained as a fact-checker in 2020 at The Nation. I went on to oversee fact-checking as coordinator at [The Intercept](https://theintercept.com/), and then worked at [Rest of World](https://restofworld.org/). I've also checked articles and podcasts for [Mother Jones](https://www.motherjones.com/), [Coda Story](https://www.codastory.com/), the [Global Investigative Journalism Network](https://gijn.org/), and [TED](https://www.ted.com/). My projects have also included books: Jay Caspian Kang's [The Loneliest Americans](https://www.newyorker.com/books/under-review/searching-for-coherence-in-asian-america) and Cole Stangler's upcoming [Paris Is Not Dead](https://thenewpress.com/books/paris-not-dead).
 
 A noter : Je suis bilingue en français, et j'ai un niveau avancé d'espagnol.
 
-## Contact me: meerabellej(at)gmail(dot)com
+## Contact me: kadaljesuthasan(at)gmail(dot)com
 
 <h1 id="writing">Selected Features and Reporting </h1>
 <h2>France</h2>

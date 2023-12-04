@@ -24,6 +24,7 @@ A noter : Je suis bilingue en français, et j'ai un niveau avancé d'espagnol.
 
 <h2>Singapore</h2>
 
+* [Just Transitions](https://mekongreview.com/just-transitions/) - Mekong Review / November 2023 / Climate activists are still stumped by the question of how to ensure that public power results in real, meaningful change. At the same time, the climate movement is setting its sights further than ever.
 * [The Movement to Close Singapore’s Death Row](https://www.thenation.com/article/world/singapore-death-penalty/) - The Nation / February 2023 / Singapore tries to keep foreigners out of its politics but not out of the noose.
 * [Singapore’s free AI therapy-bot is as problematic as you’d think](https://restofworld.org/2022/free-therapy-chatbots-singapore/) - Rest of World / November 2022 / The app tried to relieve pandemic stress for teachers — but instead, triggered cries of “gaslighting” and frustration.
 * [Singapore's Migrant Labour-Climate Crisis Conundrum](https://newnaratif.com/journalism/singapores-migrant-labour-climate-crisis-conundrum/share/zrrenoryyrw/2d08bc9b3d2cf3228920c550a4310c86) - New Naratif / 2020 / Some migrants in Singapore are employed in industries that exploit both the environment and the workers themselves, contributing to the climate crisis that sent many fleeing hostile weather conditions at home in the first place.
